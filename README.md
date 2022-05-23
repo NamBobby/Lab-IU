@@ -1,2 +1,2 @@
 # Lab-IU
-All Lab Excercise I Did in IU
+All Lab Excercises I Did in IU
